@@ -28,5 +28,5 @@ gulp docker
 
 View in browser:
 ```bash
-http://localhost:3000
+http://localhost:3000?
 ```
